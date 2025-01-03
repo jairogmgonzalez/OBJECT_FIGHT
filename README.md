@@ -42,4 +42,3 @@ El objetivo de este proyecto fue aplicar conceptos aprendidos en la asignatura *
    ```
 
 
-¡Explora el código y aprende de él! Este proyecto es una demostración de los conceptos enseñados en el curso de DAM.
